@@ -9,10 +9,8 @@ I’m passionate about learning new technologies, improving my problem-solving s
 ⚙️ Flutter & Dart
 🎓 Computer Science Fundamentals
 
-<img width="900" height="500" alt="png-clipart-dart-logo-programming-language-computer-programming-android-text-logo" src="https://github.com/user-attachments/assets/a1e8b395-dd2f-4170-b4e1-251355223d64" />
-<img width="392" height="128" alt="images" src="https://github.com/user-attachments/assets/79c13300-f51c-49d1-9ac3-4deefa9b58e5" />
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a1e8b395-dd2f-4170-b4e1-251355223d64" width="450" alt="Dart Logo" />
-  <img src="https://github.com/user-attachments/assets/79c13300-f51c-49d1-9ac3-4deefa9b58e5" width="250" alt="Flutter Logo" />
+  <img src="https://github.com/user-attachments/assets/5df49683-60da-4a77-bc5a-eed17c590ef6" width="200" alt="Dart" />
+  <img src="https://github.com/user-attachments/assets/c575ddc8-6365-44fa-a66a-0270a54a6a0c" width="300" alt="Flutter" />
+  <img src="https://github.com/user-attachments/assets/6c90f0bb-e1d6-4973-ad8a-b33ebe69fd1c" width="250" alt="Firebase" />
 </p>
