@@ -11,8 +11,13 @@
 ---
 
 # 💫 About Me:
-I’m a 21-year-old Computer Science student at Helwan University – Faculty of Computer Science.<br>I specialize in mobile application development, with a strong focus on Flutter for building modern, cross-platform mobile applications.<br><br>I’m passionate about learning new technologies, improving my problem-solving skills, and turning ideas into real, functional apps.<br>I enjoy working on personal projects and continuously developing my skills in mobile development and software engineering.<br><br>
+I’m a **21-year-old Computer Science student** at **Helwan University – Faculty of Computer Science**.<br>I specialize in **mobile application development**, with a strong focus on **Flutter** for building modern, **cross-platform mobile applications**.<br><br>I’m passionate about learning new technologies, improving my problem-solving skills, and turning ideas into real, functional apps.<br>I enjoy working on personal projects and continuously developing my skills in mobile development and software engineering.<br><br>
 
+### 🛠️ Focus Areas
+
+- 📱 **Mobile Application Development**
+- ⚙️ **Flutter & Dart**
+- 🎓 **Computer Science Fundamentals**
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahmoudsaeidr80.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mahmoudsaid104) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmoud.sayeed.ayoub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmoudsaeid0x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-saeidr80) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mahmoudr80) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mahmoud-saeid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ghostware74) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahmoudsaidayou) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mahmoudsaeed9084) 
@@ -29,21 +34,6 @@ I’m a 21-year-old Computer Science student at Helwan University – Faculty of
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🚀 About Me
-
-I’m a **21-year-old Computer Science student** at **Helwan University – Faculty of Computer Science**.  
-I specialize in **mobile application development**, with a strong focus on **Flutter** for building **modern, cross-platform mobile applications**.
-
-I’m passionate about **learning new technologies**, improving my **problem-solving skills**, and turning ideas into **real, functional apps**.  
-I enjoy working on **personal projects** and continuously developing my skills in **mobile development** and **software engineering**.
-
----
-
-### 🛠️ Focus Areas
-
-- 📱 **Mobile Application Development**
-- ⚙️ **Flutter & Dart**
-- 🎓 **Computer Science Fundamentals**
 
 
 <p align="center">
