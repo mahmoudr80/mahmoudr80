@@ -11,11 +11,16 @@
 ---
 
 <p align="center">
-  <a href="https://sparkling-lab-4a4e.mahmoudsayeedr80.workers.dev/">
-    <img src="https://img.shields.io/badge/🌐%20Website-Storix-2563EB?style=for-the-badge" />
+  <strong>🚀 Creator of <a href="https://sparkling-lab-4a4e.mahmoudsayeedr80.workers.dev/">Storix</a> — Modern Inventory Management System</strong>
+</p>
+
+<p align="center">
+  <a href="https://sparkling-lab-4a4e.mahmoudsayeedr80.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Storix Website" />
   </a>
+  &nbsp;
   <a href="https://raw.githubusercontent.com/mahmoudr80/storix/main/version%201.0/Storix.exe">
-    <img src="https://img.shields.io/badge/⬇️%20Download-Windows-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Download-Windows_Installer-28A745?style=for-the-badge&logo=windows11&logoColor=white" alt="Download Storix" />
   </a>
 </p>
 
